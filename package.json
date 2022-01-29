@@ -1,0 +1,11 @@
+{
+    "name": "webstorm-workspaces-typescript-bug",
+    "private": true,
+    "workspaces": [
+        "./apps/app"
+    ],
+    "dependencies": {
+        "workspace-app": "*",
+        "typescript": "4.4.2"
+    }
+}

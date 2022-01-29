@@ -1,0 +1,8 @@
+{
+    "name": "workspace-app",
+    "private": true,
+    "version": "0.0.1",
+    "dependencies": {
+        "axios": "0.21.1"
+    }
+}
